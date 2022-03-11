@@ -2,5 +2,5 @@
 ใช้ NodeJS ทำ CRUD ข้อมูล
 
 # วิธีใช้
-npm install \n
+npm install
 npm run dev
